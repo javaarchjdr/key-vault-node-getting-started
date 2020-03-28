@@ -13,7 +13,7 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "azure-keyvault": "^3.0.4",
-        "ms-rest-azure": "^2.5.7"
+        "azure-keyvault": "^3.0.5",
+        "ms-rest-azure": "^2.6.0"
     }
 }
